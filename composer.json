@@ -1,0 +1,18 @@
+{
+    "name": "tseweb/file-integrity-checker",
+    "description": "File Integrity Checker for PHP applications",
+    "license": "MIT",
+	"version": "1.0.0",
+    "authors": [
+        {
+            "name": "Vincent Verbruggen",
+            "email": "info@tse-webdesign.be"
+        }
+    ],
+    "require": {},
+	"autoload": {
+		"psr-4": {
+			"TSEWEB\\FileIntegrityChecker\\": "src"
+		}
+	}
+}
